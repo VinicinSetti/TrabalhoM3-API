@@ -8,3 +8,6 @@ necessario realizar os seguintes comandos de node:
     npm install --save-dev nodemon
     npm install --save morgan
     npm install --save body-parser
+
+
+banco SQL criado através do diagrama, pela função de "Database >> Synchronize Model"
